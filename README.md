@@ -19,38 +19,7 @@ The AI Interview Bot is an intelligent, voice-driven chatbot designed to assist 
 - **Database**: Firebase or MongoDB for storing user data
 - **PDF Report Generation**: Pandas, ReportLab, fpdf
 
-## Project Plan & Execution Timeline
-The project is organized into 8 weeks, as follows:
 
-### Week 1: Project Setup & Research (Planning Phase)
-- Define project scope, requirements, and tech stack
-- Set up GitHub repository, Trello for task management, and define system architecture
-
-### Week 2-3: Voice Command Processing (Speech-to-Text & Text-to-Speech)
-- Test and integrate Speech-to-Text APIs (Google Cloud, Azure, DeepSpeech)
-- Develop Text-to-Speech and Speech-to-Text processing prototype
-- Optimize API responses for accuracy with different accents
-
-### Week 4: Natural Language Processing (NLP)
-- Integrate DialogFlow or another NLP framework
-- Develop custom intent recognition for analyzing responses
-- Optimize for handling complex queries
-
-### Week 5: Custom Questions Generation
-- Fine-tune ChatGPT for interview question generation
-- Implement dynamic counter-questioning and adaptive question patterns
-
-### Week 6: Report Generation
-- Implement structured JSON data storage for reports
-- Develop PDF generation for interview reports (using Pandas, ReportLab)
-
-### Week 7: Integration & Frontend
-- Develop a user-friendly frontend interface
-- Integrate Voice, NLP, and Report generation with backend APIs
-
-### Week 8: Testing, Deployment & Final Review
-- Unit testing for each module, integration testing
-- Deploy the system to the cloud platform and finalize performance optimizations
 
 ## Installation & Setup
 ### Prerequisites
@@ -62,7 +31,7 @@ The project is organized into 8 weeks, as follows:
 ### Step-by-Step Installation
 1. Clone this repository:
     ```bash
-    git clone https://github.com/yourusername/ai-interview-bot.git
+    git clone https://github.com/MairahNisar1234/ai-interview-bot.git
     cd ai-interview-bot
     ```
 
